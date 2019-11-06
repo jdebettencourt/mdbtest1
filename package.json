@@ -4,7 +4,7 @@
   "description": "mongodb test example",
   "main": "index.js",
   "dependencies": {
-    "mongoose": "^5.7.1"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {},
   "scripts": {
